@@ -187,7 +187,7 @@
 }
 
 .checkbox-field {
-    margin: 0;
+    margin-bottom: 24px;
 }
 
 .checkbox-field input[type="checkbox"] {
