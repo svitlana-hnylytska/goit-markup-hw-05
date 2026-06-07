@@ -89,6 +89,10 @@
 }
 
 .modal-field {
+    margin-bottom: 8px;
+}
+
+.modal-field:last-of-type {
     margin-bottom: 16px;
 }
 
@@ -183,8 +187,7 @@
 }
 
 .checkbox-field {
-    margin-top: 0px;
-    margin-bottom: 24px;
+    margin: 0;
 }
 
 .checkbox-field input[type="checkbox"] {
